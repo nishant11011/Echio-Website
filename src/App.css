@@ -45,7 +45,6 @@ ul {
     display: flex;
     flex-direction: row;
     width: 100%;
-    /* margin: -0.16rem auto -0.56rem auto; */
     align-items: center;
     background: linear-gradient(180deg, #252525 0%, #222222 100%);
     position: fixed;
